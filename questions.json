@@ -1,0 +1,268 @@
+{
+  "questions": [
+    {
+      "questionText": "Which of the following does TypeScript use to specify types?",
+      "subject": "python",
+      "options": [
+        {
+          "text": ":",
+          "correct": true
+        },
+        {
+          "text": ";"
+        },
+        {
+          "text": "!"
+        },
+        {
+          "text": "&"
+        }
+      ],
+      "explanation": "TS uses a colon (:) to separate the property name from the property type"
+    },
+    {
+      "questionText": "Which of the following is NOT a type used in TypeScript?",
+      "subject": "angular",
+      "options": [
+        {
+          "text": "number"
+        },
+        {
+          "text": "string"
+        },
+        {
+          "text": "boolean"
+        },
+        {
+          "text": "enum",
+          "correct": true
+        }
+      ],
+      "explanation": "enum is not used as a type in TypeScript"
+    },
+    {
+      "questionText": "How can we specify properties and methods for an object in TypeScript?",
+      "subject": "angular",
+      "options": [
+        {
+          "text": "Use classes."
+        },
+        {
+          "text": "Use interfaces.",
+          "correct": true
+        },
+        {
+          "text": "Use enums."
+        },
+        {
+          "text": "Use async/await."
+        }
+      ],
+      "explanation": "interfaces are typically used to list the properties and methods for an object"
+    },
+    {
+      "questionText": "How else can Array<number> be written in TypeScript?",
+      "subject": "angular",
+      "options": [
+        {
+          "text": "@number"
+        },
+        {
+          "text": "number[]",
+          "correct": true
+        },
+        {
+          "text": "number!"
+        },
+        {
+          "text": "number?"
+        }
+      ],
+      "explanation": "number[] is another way of writing Array<number> in TypeScript"
+    },
+    {
+      "questionText": "In which of these does a class take parameters?",
+      "subject": "angular",
+      "options": [
+        {
+          "text": "constructor",
+          "correct": true
+        },
+        {
+          "text": "destructor"
+        },
+        {
+          "text": "import"
+        },
+        {
+          "text": "subscribe"
+        }
+      ],
+      "explanation": "a constructor is used by a class to take in parameters"
+    },
+    {
+      "questionText": "Which is NOT an access modifier?",
+      "subject": "angular",
+      "options": [
+        {
+          "text": "private"
+        },
+        {
+          "text": "protected"
+        },
+        {
+          "text": "public"
+        },
+        {
+          "text": "async",
+          "correct": true
+        }
+      ],
+      "explanation": "async is not used as an access modifier type in TypeScript"
+    },
+    {
+      "questionText": "Which keyword allows us to share information between files in TypeScript?",
+      "subject": "angular",
+      "options": [
+        {
+          "text": "import"
+        },
+        {
+          "text": "export",
+          "correct": true
+        },
+        {
+          "text": "async"
+        },
+        {
+          "text": "constructor"
+        }
+      ],
+      "explanation": "the export keyword allows for the information to be transmitted between files"
+    },
+    {
+      "questionText": "Which is an array method to generate a new array based on a condition?",
+      "subject": "angular",
+      "options": [
+        {
+          "text": "filter",
+          "correct": true
+        },
+        {
+          "text": "map"
+        },
+        {
+          "text": "async"
+        },
+        {
+          "text": "enum"
+        }
+      ],
+      "explanation": "filter is a method used to conditionally create a new array"
+    },
+    {
+      "questionText": "How is a property accessible within a class?",
+      "subject": "angular",
+      "options": [
+        {
+          "text": "Using this.propertyName",
+          "correct": true
+        },
+        {
+          "text": "Accessors"
+        },
+        {
+          "text": "Destructuring"
+        },
+        {
+          "text": "Arrow function"
+        }
+      ],
+      "explanation": "this.propertyName is the way to access a specific property within a class"
+    },
+    {
+      "questionText": "Which type of JavaScript language is",
+      "subject": "angular",
+      "options": [
+        {
+          "text": "Object-Oriented"
+        },
+        {
+          "text": "Object-Based",
+          "correct": true
+        },
+        {
+          "text": "Assembly-language"
+        },
+        {
+          "text": "High-level"
+        }
+      ],
+      "explanation": "",
+      "id": "8b2b929d-1fb5-4cc6-b64f-07663e3d7025"
+    },
+    {
+      "questionText": "When interpreter encounters an empty statements, what it will do:asdjf",
+      "subject": "python",
+      "options": [
+        {
+          "text": " Shows a warning a;sdfa",
+          "correct": true
+        },
+        {
+          "text": "Prompts to complete the statement alsdfj"
+        },
+        {
+          "text": " Throws an error  asdjfasldfjaslkdf"
+        },
+        {
+          "text": " Ignores the statements asdfjlaksdjfkl"
+        }
+      ],
+      "explanation": "",
+      "id": "a516e25e-3116-4831-a3fe-a2b37de6ad3d"
+    },
+    {
+      "questionText": "The \"function\" and \" var\" are known as: ",
+      "subject": "angular",
+      "options": [
+        {
+          "text": " Keywords "
+        },
+        {
+          "text": "Data types "
+        },
+        {
+          "text": "Declaration statements ",
+          "correct": true
+        },
+        {
+          "text": "Prototypes"
+        }
+      ],
+      "explanation": "",
+      "id": "a1b006a0-2968-42c5-9b2d-10948b5f15a6"
+    },
+    {
+      "questionText": " Which one of the following is the correct way for calling the JavaScript code?   ",
+      "subject": "angular",
+      "options": [
+        {
+          "text": "Preprocessor"
+        },
+        {
+          "text": "Triggering  Event"
+        },
+        {
+          "text": " RMI"
+        },
+        {
+          "text": "Function/Method",
+          "correct": true
+        }
+      ],
+      "explanation": "",
+      "id": "e7a1718f-9fec-4a84-87b4-6e501491fc13"
+    }
+     ]
+}

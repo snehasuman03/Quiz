@@ -1,0 +1,90 @@
+{
+  "signup": [
+    {
+      "name": "sneha",
+      "mobile": 78787878,
+      "email": "sneha@gmail.com",
+      "password": "sneha",
+      "user_type": "admin"
+    },
+    {
+      "name": "kedy",
+      "mobile": 86544545,
+      "email": "kedy@gmail.com",
+      "password": "kedy",
+      "user_type": "admin"
+    },
+    {
+      "fullname": "Sagar",
+      "email": "sagarharshsharma12345@gmail.com",
+      "password": "sagarboss12345",
+      "mobile": 9354860982,
+      "user_type": "admin",
+      "id": "70431b5b-fbcd-41b0-8111-aa9bbe6993e9"
+    },
+    {
+      "fullname": "golu",
+      "email": "golu@gmail.com",
+      "password": "golu",
+      "mobile": 7865648787,
+      "user_type": "student",
+      "id": "418c60ae-0d57-4b5b-86d8-c8908693ca07"
+    },
+    {
+      "fullname": "Sagar Sharma",
+      "email": "raaasamrahs1234@gmail.com",
+      "password": "raaasamrahs",
+      "mobile": 9354860982,
+      "user_type": "admin",
+      "id": "6529febb-cec9-4747-9a95-1c41f5615f12"
+    },
+    {
+      "fullname": "simran",
+      "email": "simran@sharma.com",
+      "password": "simran",
+      "mobile": "8978788888",
+      "user_type": "student",
+      "id": "e9837425-4d74-47f9-a8b7-84833203c1f9"
+    },
+    {
+      "fullname": "sanu singh",
+      "email": "sanu@gmail.com",
+      "password": "sanu",
+      "mobile": "7878978787",
+      "user_type": "student",
+      "id": "9b85c771-800d-4e26-b98e-37f7cc3622cb"
+    },
+    {
+      "fullname": "spoorthi",
+      "email": "spoorthi_didi_plus_bhenji@gmail.com",
+      "password": "spoorthi",
+      "mobile": "8778787878",
+      "user_type": "student",
+      "id": "65d328bc-241d-467e-a9d1-f48df53ef1bc"
+    },
+    {
+      "fullname": "subham",
+      "email": "subham@gmail.com",
+      "password": "subham",
+      "mobile": "7878776767",
+      "user_type": "student",
+      "id": "8136ccc5-723c-4faa-9f28-491d60d74639"
+    },
+    {
+      "fullname": "Vishal Sahal",
+      "email": "vsahal25@gmail.com",
+      "password": "12345",
+      "mobile": "8910455262",
+      "user_type": "admin",
+      "id": "d4c2e7a0-0128-4ff6-9890-5943b3cc342f"
+    },
+    {
+      "fullname": "komal singh",
+      "email": "komal@gmail.com",
+      "password": "komal",
+      "mobile": "6767676777",
+      "user_type": "student",
+      "id": "194d9f89-6e1c-45f9-b1bb-32fc16ac9d0f"
+    }
+  ]
+}
